@@ -2,6 +2,8 @@
 
 Atraves do Curso foi possivel implementar uma solucao de proxy reverso expondo as aplicacoes, e tambem trabalhando com Balanceador de carga (Load Balancer) entre as aplicacoes de Conversao de Temepratura.
 
+![Screenshot](Images/Nginx.png)
+
 - Nginx
 `http://127.0.0.1.nip.io:8080/`
 
